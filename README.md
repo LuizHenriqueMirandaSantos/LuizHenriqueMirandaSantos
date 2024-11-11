@@ -1,7 +1,17 @@
 
 ### Olá Me chamo Luiz Henrique, Atualmente sou estudante e freelancer
 ##
-<div>
+
+<style>
+  @media screen and (max-width:900px) {
+    .tamanho{
+      height="180em"
+    }
+}
+</style>
+
+
+<div class="tamanho">
   <img height="135em" src="https://github-readme-stats.vercel.app/api?username=kevhlub443&show_icons=true&theme=synthwave"> 
   <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevhlub443&layout=compact&theme=synthwave">
 </div>
