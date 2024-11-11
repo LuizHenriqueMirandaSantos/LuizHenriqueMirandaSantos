@@ -5,7 +5,7 @@
 <style>
   @media screen and (max-width:900px) {
     .tamanho{
-      height="180em"
+      height:180em;
     }
 }
 </style>
