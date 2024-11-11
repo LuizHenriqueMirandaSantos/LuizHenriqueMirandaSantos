@@ -2,8 +2,8 @@
 ### Olá Me chamo Luiz Henrique, Atualmente sou estudante e freelancer
 ##
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kevhlub443&show_icons=true&theme=synthwave"> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevhlub443&layout=compact&theme=synthwave">
+  <img height="135em" src="https://github-readme-stats.vercel.app/api?username=kevhlub443&show_icons=true&theme=synthwave"> 
+  <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevhlub443&layout=compact&theme=synthwave">
 </div>
 
 
@@ -22,3 +22,5 @@
   <a href = "mailto:luiz.contato1364@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/LuizHenriqueMirandaSantos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
+
