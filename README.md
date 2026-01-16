@@ -10,7 +10,7 @@ para fazer esse titulo
 
 #
 -->
-<p align="center">Estudante de Análise e Desenvolvimento de Sistemas na Proz Educação. Atualmente trabalho com freelancer e estudo paralelamente.
+<p align="center">sou formado em Análise e Desenvolvimento de Sistemas na Proz Educação. Atualmente trabalho com projetos pessoais e estudo paralelamente.
 Estou sempre em busca de atualizar meus conhecimentos e enfrentar novos desafios na área de tecnologia. Sou apaixonado por aprender e aplicar o que aprendo para desenvolver soluções inovadoras.
   
 #
