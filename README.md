@@ -10,7 +10,7 @@ para fazer esse titulo
 
 #
 -->
-<p align="center">sou formado em Análise e Desenvolvimento de Sistemas na Proz Educação. Atualmente trabalho com projetos pessoais e estudo paralelamente.
+<p align="center"> Atualmente estou cursando Ciência de Dados na UFMG, também sou formado no nível técnico em Análise e Desenvolvimento de Sistemas na Proz Educação.
 Estou sempre em busca de atualizar meus conhecimentos e enfrentar novos desafios na área de tecnologia. Sou apaixonado por aprender e aplicar o que aprendo para desenvolver soluções inovadoras.
   
 #
